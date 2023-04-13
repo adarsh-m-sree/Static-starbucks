@@ -1,0 +1,307 @@
+body{
+    margin: 0;
+}
+.t1
+{
+    margin-top: 10%;
+    margin-left: 60%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35%;
+    height: 20%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-weight: 600!important;
+    font-size: 25px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+    background-color:#d4e9e2;
+
+}
+.t1a
+{
+    margin-top: 13%;
+    margin-left: 60%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35%;
+    height: 20%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-weight: 600!important;
+    font-size: 20px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+    background-color:#d4e9e2;
+
+}
+.t2 
+{
+    margin-top: 39%;
+    margin-left: 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 45%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-weight: 600!important;
+    font-size: 50px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+    background-color:#f6bfd9;
+    
+}
+.t2a
+{
+    margin-top: 44%;
+    margin-left: 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 45%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-size: 24px;
+    text-align: center!important;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+
+}
+.t3
+{
+    margin-top: 78%;
+    margin-left: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 45%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-weight: 600!important;
+    font-size: 50px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+    background-color:#fff4d4;
+}
+.t3a
+{
+
+    margin-top: 83%;
+    margin-left: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 45%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-size: 24px;
+    text-align: center!important;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+.t4
+{
+    margin-top: 115%;
+    margin-left: 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 45%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-weight: 600!important;
+    font-size: 50px;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    letter-spacing: 1px;
+    background-color:#d4e9e2;
+}
+.t4a
+{
+    margin-top: 125%;
+    margin-left: 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 45%;
+    color: #1e3932;
+    text-align: center!important;
+    z-index: 1;
+    font-size: 24px;
+    text-align: center!important;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+
+}
+.footer
+{
+   display: flex;
+    padding-left: 6%;
+    box-shadow: 0 -1px 3px rgba(0,0,0,.1), 0 -2px 2px rgba(0,0,0,.06), 0 0 2px rgba(0,0,0,.07);
+}
+    
+.row 
+{
+    
+    font-size: 1.4rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    
+}
+#row1
+{
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.col1
+{
+    font-size: 1.4rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    
+}
+.col1a
+{
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+
+}
+.col2
+{
+    
+    font-size: 1.4rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+.col2a
+{
+
+    
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+
+}
+.col3
+{
+
+    font-size: 1.4rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+.col3a
+{
+     
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+
+}
+.col4
+{
+    font-size: 1.4rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+.col4a
+{
+    
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+
+}
+
+.text
+{
+   background: white;
+   display: flex;
+   justify-content: center;
+   padding-top:4% ;
+   font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+   font-size: 14px;
+   letter-spacing: -.01em;
+}
+
+.txt1
+{
+    background: white;
+    display: flex;
+    justify-content: center;
+    padding-top:4% ;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    letter-spacing: -.01em;
+    
+}
+#sm
+{
+
+    padding-left: 3%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    gap: 20px;
+    
+
+}
+.end
+{
+    display: flex!important;
+    text-align: center!important;
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: -.01em;
+    
+}
+#cr
+{
+    padding-left: 3%;
+}

@@ -1,0 +1,119 @@
+.head
+{
+
+}
+.headimg
+{
+    
+
+}
+.one1
+{
+    margin-top: -4%;
+    background-color: white;
+    padding-left: 7%;
+    text-transform: uppercase!important;
+    letter-spacing: .1em!important;
+    font-weight: 700!important;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    display: flex;
+}
+.two2
+{
+    margin-top: -4%;
+    background-color: white;
+    padding-left: 70%;
+    text-transform: uppercase!important;
+    letter-spacing: .1em!important;
+    font-weight: 700!important;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    display: flex;
+    
+}
+/* .three2
+{
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    color: rgba(0,0,0,.87);
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+   
+} */
+
+
+.bg1
+{
+    background-color: #d4e9e2;
+    margin-left: .8%;
+    margin-right: .8;
+    /* margin-top: 2%; */
+    width:1000;
+    height:280;   
+}
+
+.bg2
+{
+    margin-top: 2%;
+    background-color:#f6bfd9;
+    margin-left: .8%;
+    margin-right: .8%;
+}
+
+#main2img
+{
+    padding-left: 49%;
+}
+
+.bg3
+{
+    background-color: #fff4d4;
+    margin-top: 2%;
+    margin-left: .8%;
+    margin-right: .8%;
+    margin-bottom:2% ;
+}
+
+.bg4
+{
+    background-color: #d4e9e2;
+    margin-left: .8%;
+    margin-right: .8%;
+}
+
+#main4img
+{
+    padding-left: 49%;
+}
+
+
+
+
+
+
+
+
+
+
+/* .two
+{
+    text-transform: uppercase!important;
+    letter-spacing: .1em!important;
+    font-weight: 700!important;
+    display: inline-block!important;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+   
+}
+.three
+{
+    text-transform: uppercase!important;
+    letter-spacing: .1em!important;
+    font-weight: 700!important;
+    display: inline-block!important;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    
+} */
